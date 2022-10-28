@@ -13,7 +13,7 @@ body {
 .info-container img {
   width: 100%;
 }
-.ainfo-containeraa .more-inf {
+.info-container .more-inf {
   font-family: fantasy, cursive;
 }
 
@@ -22,7 +22,7 @@ body {
     text-align: center;
   }
 }
-.centered-main-page-element {
+.main {
   display: block;
   width: 500px;
   margin: 0 auto 0;
